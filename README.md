@@ -356,3 +356,31 @@ This project demonstrates the ability to:
 ✅ Secure
 ✅ Architecturally Modular
 
+# Project Hilights
+
+## execution speed improved from 6hrs to less than "3 minutes"
+---
+
+<img width="641" height="428" alt="image" src="https://github.com/user-attachments/assets/e6d0089f-a61b-444e-ae0c-e6ca1563afee" />
+
+## detected following images from DB
+---
+
+<img width="416" height="465" alt="image" src="https://github.com/user-attachments/assets/4635bb68-b527-47ab-a18a-6fb0c07c5ca2" />
+
+## added fake and real images of every category to db
+---
+<img width="635" height="426" alt="image" src="https://github.com/user-attachments/assets/8ba75833-1efd-4546-b5d0-e611087412b9" />
+
+<img width="625" height="419" alt="image" src="https://github.com/user-attachments/assets/e4014ab6-56f9-4442-8794-3aa4624ce9f6" />
+
+<img width="520" height="367" alt="image" src="https://github.com/user-attachments/assets/c02b4bc6-f1b1-4061-a6ab-628763f00b06" />
+
+<img width="409" height="437" alt="image" src="https://github.com/user-attachments/assets/8dcb9619-97bf-415e-8763-e02e20d7711c" />
+
+<img width="380" height="395" alt="image" src="https://github.com/user-attachments/assets/be25ec54-338f-4b6e-ac5f-0b65321054b2" />
+
+## deteced them successfully
+
+<img width="958" height="530" alt="image" src="https://github.com/user-attachments/assets/66878c07-d582-459c-affd-952d003cf9c1" />
+
